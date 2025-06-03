@@ -33,5 +33,3 @@ This project is a real-time face mask detection system that uses deep learning f
 - USB–UART connection (USART1)
 
 ---
-
-## 📁 Folder Structure
